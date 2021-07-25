@@ -1,0 +1,2018 @@
+﻿{
+  "msg": "Success",
+  "code": 0,
+  "data": {
+    "file_name": "涨粉指数榜(更新截止至2021-04-05 13:55:45)",
+    "total_cnt": 50,
+    "stars": [
+      {
+        "province": "北京市",
+        "city": "东城区",
+        "old_rank": 1,
+        "nick_name": "大海去旅行",
+        "fields": [
+          {
+            "value": "199988",
+            "label": "incr_follower"
+          },
+          {
+            "value": "89.1",
+            "label": "score"
+          },
+          {
+            "value": "488822",
+            "label": "follower"
+          },
+          {
+            "value": "143940",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0242",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "7.0",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p6.douyinpic.com/aweme/1080x1080/26cf60000debf1903840a.jpeg?from=4010531038",
+        "avg_play": 213766,
+        "new_rank": 1,
+        "id": "6899436917721399309",
+        "core_user_id": "95598109340"
+      },
+      {
+        "province": "",
+        "city": "郑州",
+        "old_rank": 2,
+        "nick_name": "刻苦铭心",
+        "fields": [
+          {
+            "value": "131992",
+            "label": "incr_follower"
+          },
+          {
+            "value": "87.4",
+            "label": "score"
+          },
+          {
+            "value": "991817",
+            "label": "follower"
+          },
+          {
+            "value": "456463",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0112",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "2.2",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p29.douyinpic.com/img/tos-cn-avt-0015/77ff8b789124921776d9c170f510f337~c5_1080x1080.jpeg?from=4010531038",
+        "avg_play": 30839,
+        "new_rank": 2,
+        "id": "6919392635811528712",
+        "core_user_id": "791269826111550"
+      },
+      {
+        "province": "北京市",
+        "city": "",
+        "old_rank": 5,
+        "nick_name": "郑局庄段",
+        "fields": [
+          {
+            "value": "102949",
+            "label": "incr_follower"
+          },
+          {
+            "value": "86.5",
+            "label": "score"
+          },
+          {
+            "value": "503155",
+            "label": "follower"
+          },
+          {
+            "value": "433316",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0265",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "2.3",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p3.douyinpic.com/img/tos-cn-i-0813/3e8c2674c32e454d873a278360b5a7e0~c5_1080x1080.jpeg?from=4010531038",
+        "avg_play": 310970,
+        "new_rank": 3,
+        "id": "6870171034662731783",
+        "core_user_id": "3399332604689403"
+      },
+      {
+        "province": "重庆市",
+        "city": "渝北区",
+        "old_rank": 3,
+        "nick_name": "久哥航拍",
+        "fields": [
+          {
+            "value": "87357",
+            "label": "incr_follower"
+          },
+          {
+            "value": "85.8",
+            "label": "score"
+          },
+          {
+            "value": "292601",
+            "label": "follower"
+          },
+          {
+            "value": "404765",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0082",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "2.7",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p3.douyinpic.com/img/tos-cn-avt-0015/7141bde55576daffb64aba64c80032ac~c5_1080x1080.jpeg?from=4010531038",
+        "avg_play": 10401544,
+        "new_rank": 4,
+        "id": "6860146806970384391",
+        "core_user_id": "98984717089"
+      },
+      {
+        "province": "",
+        "city": "哈尔滨",
+        "old_rank": 4,
+        "nick_name": "清松✨",
+        "fields": [
+          {
+            "value": "75635",
+            "label": "incr_follower"
+          },
+          {
+            "value": "85.3",
+            "label": "score"
+          },
+          {
+            "value": "779549",
+            "label": "follower"
+          },
+          {
+            "value": "67659",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0246",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "14.8",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p3.douyinpic.com/aweme/1080x1080/30f7900006249e9fbd24d.jpeg?from=4010531038",
+        "avg_play": 75892,
+        "new_rank": 5,
+        "id": "6857092575157813251",
+        "core_user_id": "59958341126"
+      },
+      {
+        "province": "",
+        "city": "重庆",
+        "old_rank": 7,
+        "nick_name": "猫叔遛娃",
+        "fields": [
+          {
+            "value": "57594",
+            "label": "incr_follower"
+          },
+          {
+            "value": "84.3",
+            "label": "score"
+          },
+          {
+            "value": "250870",
+            "label": "follower"
+          },
+          {
+            "value": "123788",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0397",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "17.0",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p3.douyinpic.com/aweme/1080x1080/31aee0004c85d48f0cc0f.jpeg?from=4010531038",
+        "avg_play": 554108,
+        "new_rank": 6,
+        "id": "6881571674001506318",
+        "core_user_id": "85143740107"
+      },
+      {
+        "province": "贵州省",
+        "city": "黔东南苗族侗族自治州",
+        "old_rank": 6,
+        "nick_name": "疯胖驴",
+        "fields": [
+          {
+            "value": "47816",
+            "label": "incr_follower"
+          },
+          {
+            "value": "83.6",
+            "label": "score"
+          },
+          {
+            "value": "732946",
+            "label": "follower"
+          },
+          {
+            "value": "454028",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0129",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "8.4",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p9.douyinpic.com/aweme/1080x1080/2f98d000031b51dff705c.jpeg?from=4010531038",
+        "avg_play": 854310,
+        "new_rank": 7,
+        "id": "6829804978433949709",
+        "core_user_id": "61267280512"
+      },
+      {
+        "province": "北京市",
+        "city": "",
+        "old_rank": 8,
+        "nick_name": "笑笑趣游",
+        "fields": [
+          {
+            "value": "44134",
+            "label": "incr_follower"
+          },
+          {
+            "value": "83.3",
+            "label": "score"
+          },
+          {
+            "value": "898950",
+            "label": "follower"
+          },
+          {
+            "value": "134710",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0066",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "7.4",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p6.douyinpic.com/img/tos-cn-i-0813/59ad4b2e472646a2b9fa32a59da14240~c5_1080x1080.jpeg?from=4010531038",
+        "avg_play": 1153794,
+        "new_rank": 8,
+        "id": "6837809245958701070",
+        "core_user_id": "110063568545"
+      },
+      {
+        "province": "",
+        "city": "北京",
+        "old_rank": 10,
+        "nick_name": "小燕子趣游",
+        "fields": [
+          {
+            "value": "37175",
+            "label": "incr_follower"
+          },
+          {
+            "value": "82.7",
+            "label": "score"
+          },
+          {
+            "value": "590411",
+            "label": "follower"
+          },
+          {
+            "value": "198490",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0139",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "5.0",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p26.douyinpic.com/aweme/1080x1080/2dc850004dfdeaab324f4.jpeg?from=4010531038",
+        "avg_play": 2764199,
+        "new_rank": 9,
+        "id": "6855249055170166791",
+        "core_user_id": "91673423134"
+      },
+      {
+        "province": "",
+        "city": "多伦多",
+        "old_rank": 18,
+        "nick_name": "☾☺︎🅴🆂🆃🅷🅴🆁",
+        "fields": [
+          {
+            "value": "34435",
+            "label": "incr_follower"
+          },
+          {
+            "value": "82.4",
+            "label": "score"
+          },
+          {
+            "value": "292842",
+            "label": "follower"
+          },
+          {
+            "value": "127979",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.1509",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "7.8",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p29.douyinpic.com/img/tos-cn-avt-0015/306dea9586b007c623a6fd4ed81e83b7~c5_1080x1080.jpeg?from=4010531038",
+        "avg_play": 1340303,
+        "new_rank": 10,
+        "id": "6870165889300299789",
+        "core_user_id": "97107735850"
+      },
+      {
+        "province": "上海市",
+        "city": "",
+        "old_rank": 14,
+        "nick_name": "梧桐树先生🕵🏻\u200d♂️",
+        "fields": [
+          {
+            "value": "32046",
+            "label": "incr_follower"
+          },
+          {
+            "value": "82.2",
+            "label": "score"
+          },
+          {
+            "value": "579335",
+            "label": "follower"
+          },
+          {
+            "value": "144081",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.017",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "6.9",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p29.douyinpic.com/aweme/1080x1080/316940008e89f942b41f8.jpeg?from=4010531038",
+        "avg_play": 641658,
+        "new_rank": 11,
+        "id": "6766393045702148104",
+        "core_user_id": "59627264010"
+      },
+      {
+        "province": "",
+        "city": "巴黎",
+        "old_rank": 16,
+        "nick_name": "一只狐狸🦊",
+        "fields": [
+          {
+            "value": "32164",
+            "label": "incr_follower"
+          },
+          {
+            "value": "82.2",
+            "label": "score"
+          },
+          {
+            "value": "841130",
+            "label": "follower"
+          },
+          {
+            "value": "493034",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.031",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "4.1",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p3.douyinpic.com/aweme/1080x1080/317610009e6bf194605fa.jpeg?from=4010531038",
+        "avg_play": 142468,
+        "new_rank": 12,
+        "id": "6870164656091037704",
+        "core_user_id": "93051878429"
+      },
+      {
+        "province": "",
+        "city": "郴州",
+        "old_rank": 9,
+        "nick_name": "李言美",
+        "fields": [
+          {
+            "value": "31965",
+            "label": "incr_follower"
+          },
+          {
+            "value": "82.2",
+            "label": "score"
+          },
+          {
+            "value": "171805",
+            "label": "follower"
+          },
+          {
+            "value": "185511",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0198",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "5.4",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p6.douyinpic.com/img/tos-cn-avt-0015/030fdb5776201a41abeb114d069fa2b3~c5_1080x1080.jpeg?from=4010531038",
+        "avg_play": 577801,
+        "new_rank": 13,
+        "id": "6861889578698014734",
+        "core_user_id": "2119468630676759"
+      },
+      {
+        "province": "河南省",
+        "city": "郑州市",
+        "old_rank": 12,
+        "nick_name": "走陵访古——彪",
+        "fields": [
+          {
+            "value": "31596",
+            "label": "incr_follower"
+          },
+          {
+            "value": "82.1",
+            "label": "score"
+          },
+          {
+            "value": "519314",
+            "label": "follower"
+          },
+          {
+            "value": "161005",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0199",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "10.6",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p26.douyinpic.com/aweme/1080x1080/fa88000c57e76db729ec.jpeg?from=4010531038",
+        "avg_play": 736274,
+        "new_rank": 14,
+        "id": "6847877522554617863",
+        "core_user_id": "104382554462"
+      },
+      {
+        "province": "云南省",
+        "city": "昆明市",
+        "old_rank": 15,
+        "nick_name": "李可乐漂流记",
+        "fields": [
+          {
+            "value": "30636",
+            "label": "incr_follower"
+          },
+          {
+            "value": "82",
+            "label": "score"
+          },
+          {
+            "value": "659577",
+            "label": "follower"
+          },
+          {
+            "value": "158832",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0379",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "37.8",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p9.douyinpic.com/img/tos-cn-avt-0015/43d2914e7b738436fc280f21ba4597b3~c5_1080x1080.jpeg?from=4010531038",
+        "avg_play": 2044061,
+        "new_rank": 15,
+        "id": "6771425625585483789",
+        "core_user_id": "74040025333"
+      },
+      {
+        "province": "北京市",
+        "city": "房山区",
+        "old_rank": 13,
+        "nick_name": "阿里秀游北京",
+        "fields": [
+          {
+            "value": "29422",
+            "label": "incr_follower"
+          },
+          {
+            "value": "81.9",
+            "label": "score"
+          },
+          {
+            "value": "953583",
+            "label": "follower"
+          },
+          {
+            "value": "137542",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0113",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "28.4",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p3.douyinpic.com/img/tos-cn-avt-0015/09c01e805cb77a4c82bcbccdc3d70e4b~c5_1080x1080.jpeg?from=4010531038",
+        "avg_play": 1956029,
+        "new_rank": 16,
+        "id": "6845178308083056653",
+        "core_user_id": "104488777036"
+      },
+      {
+        "province": "",
+        "city": "",
+        "nick_name": "爱旅行的yan✨",
+        "fields": [
+          {
+            "value": "28433",
+            "label": "incr_follower"
+          },
+          {
+            "value": "81.8",
+            "label": "score"
+          },
+          {
+            "value": "197520",
+            "label": "follower"
+          },
+          {
+            "value": "21432",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0276",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "46.7",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p29.douyinpic.com/img/tos-cn-avt-0015/af9f8b7613bc495b2f174b89fd23cf89~c5_1080x1080.jpeg?from=4010531038",
+        "avg_play": 376890,
+        "new_rank": 17,
+        "id": "6870162949244190728",
+        "core_user_id": "73645891420"
+      },
+      {
+        "province": "",
+        "city": "",
+        "old_rank": 17,
+        "nick_name": "走进重庆【直播】",
+        "fields": [
+          {
+            "value": "27002",
+            "label": "incr_follower"
+          },
+          {
+            "value": "81.6",
+            "label": "score"
+          },
+          {
+            "value": "357895",
+            "label": "follower"
+          },
+          {
+            "value": "30551",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0187",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "32.7",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p3.douyinpic.com/aweme/1080x1080/319a90003dfd76511afa6.jpeg?from=4010531038",
+        "avg_play": 159201,
+        "new_rank": 18,
+        "id": "6860481421954252803",
+        "core_user_id": "97413917833"
+      },
+      {
+        "province": "",
+        "city": "",
+        "old_rank": 18,
+        "nick_name": "馆主  湫  ☀️",
+        "fields": [
+          {
+            "value": "25514",
+            "label": "incr_follower"
+          },
+          {
+            "value": "81.4",
+            "label": "score"
+          },
+          {
+            "value": "827725",
+            "label": "follower"
+          },
+          {
+            "value": "434469",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.1027",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "2.3",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p3.douyinpic.com/img/tos-cn-avt-0015/21640b6cdb996ca6eb47dc8ca2b66ce1~c5_1080x1080.jpeg?from=4010531038",
+        "avg_play": 438363,
+        "new_rank": 19,
+        "id": "6895238894258749447",
+        "core_user_id": "106597105926"
+      },
+      {
+        "province": "上海市",
+        "city": "",
+        "nick_name": "混血兄弟姐妹（雅斯顿）",
+        "fields": [
+          {
+            "value": "24785",
+            "label": "incr_follower"
+          },
+          {
+            "value": "81.3",
+            "label": "score"
+          },
+          {
+            "value": "766833",
+            "label": "follower"
+          },
+          {
+            "value": "98186",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0167",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "41.8",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p3.douyinpic.com/aweme/1080x1080/2e49b0001fc3d6f3dfab6.jpeg?from=4010531038",
+        "avg_play": 690083,
+        "new_rank": 20,
+        "id": "6791395468296323080",
+        "core_user_id": "104311067507"
+      },
+      {
+        "province": "浙江省",
+        "city": "杭州市",
+        "nick_name": "两个水瓶",
+        "fields": [
+          {
+            "value": "24163",
+            "label": "incr_follower"
+          },
+          {
+            "value": "81.2",
+            "label": "score"
+          },
+          {
+            "value": "235090",
+            "label": "follower"
+          },
+          {
+            "value": "879792",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0444",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "11.4",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p6.douyinpic.com/img/tos-cn-avt-0015/9a614cdf72a1152dba8bdb3229de0889~c5_1080x1080.jpeg?from=4010531038",
+        "avg_play": 481922,
+        "id": "6936406598327730212",
+        "core_user_id": "3562035454422176"
+      },
+      {
+        "province": "",
+        "city": "南京",
+        "nick_name": "南京杰哥",
+        "fields": [
+          {
+            "value": "23439",
+            "label": "incr_follower"
+          },
+          {
+            "value": "81.1",
+            "label": "score"
+          },
+          {
+            "value": "644625",
+            "label": "follower"
+          },
+          {
+            "value": "29122",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0186",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "34.3",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p9.douyinpic.com/aweme/1080x1080/31c1200002cd939e0ead6.jpeg?from=4010531038",
+        "avg_play": 103892,
+        "id": "6866915095595712515",
+        "core_user_id": "59385752101"
+      },
+      {
+        "province": "",
+        "city": "郑州",
+        "old_rank": 19,
+        "nick_name": "50岁阿姨自驾游",
+        "fields": [
+          {
+            "value": "23334",
+            "label": "incr_follower"
+          },
+          {
+            "value": "81.1",
+            "label": "score"
+          },
+          {
+            "value": "327759",
+            "label": "follower"
+          },
+          {
+            "value": "254131",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0297",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "19.7",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p9.douyinpic.com/img/tos-cn-i-0813/9ed87e14df8f417796ccec9f78952d8f~c5_1080x1080.jpeg?from=4010531038",
+        "avg_play": 211573,
+        "new_rank": 20,
+        "id": "6896818095940173827",
+        "core_user_id": "540612448236605"
+      },
+      {
+        "province": "广东省",
+        "city": "中山市",
+        "old_rank": 15,
+        "nick_name": "张扬谈澳门",
+        "fields": [
+          {
+            "value": "23684",
+            "label": "incr_follower"
+          },
+          {
+            "value": "81.1",
+            "label": "score"
+          },
+          {
+            "value": "475079",
+            "label": "follower"
+          },
+          {
+            "value": "235903",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0213",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "9.3",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p9.douyinpic.com/aweme/1080x1080/b6fa000b53b45d2bcba4.jpeg?from=4010531038",
+        "avg_play": 138963,
+        "new_rank": 19,
+        "id": "6870162443809587213",
+        "core_user_id": "70459295589"
+      },
+      {
+        "province": "",
+        "city": "成都",
+        "nick_name": "加加kiana",
+        "fields": [
+          {
+            "value": "22748",
+            "label": "incr_follower"
+          },
+          {
+            "value": "81",
+            "label": "score"
+          },
+          {
+            "value": "310449",
+            "label": "follower"
+          },
+          {
+            "value": "76449",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0211",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "52.3",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p3.douyinpic.com/aweme/1080x1080/31924000ba1c3e2de83d3.jpeg?from=4010531038",
+        "avg_play": 143828,
+        "new_rank": 19,
+        "id": "6856001419556683776",
+        "core_user_id": "2598899279203304"
+      },
+      {
+        "province": "",
+        "city": "",
+        "nick_name": "玩乐青岛📸-攻略",
+        "fields": [
+          {
+            "value": "21116",
+            "label": "incr_follower"
+          },
+          {
+            "value": "80.8",
+            "label": "score"
+          },
+          {
+            "value": "177878",
+            "label": "follower"
+          },
+          {
+            "value": "208985",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0233",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "5.3",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p6.douyinpic.com/img/tos-cn-avt-0015/79451bbf749788d82da6ec5212957291~c5_1080x1080.jpeg?from=4010531038",
+        "avg_play": 182368,
+        "new_rank": 18,
+        "id": "6870169823683280903",
+        "core_user_id": "1402629941897444"
+      },
+      {
+        "province": "",
+        "city": "石家庄",
+        "old_rank": 17,
+        "nick_name": "旅小豆",
+        "fields": [
+          {
+            "value": "21629",
+            "label": "incr_follower"
+          },
+          {
+            "value": "80.8",
+            "label": "score"
+          },
+          {
+            "value": "256756",
+            "label": "follower"
+          },
+          {
+            "value": "41498",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0199",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "60.2",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p3.douyinpic.com/img/tos-cn-avt-0015/7e24e30884e6f4e5d30a3e6080db259a~c5_1080x1080.jpeg?from=4010531038",
+        "avg_play": 567678,
+        "new_rank": 20,
+        "id": "6883763283396935692",
+        "core_user_id": "716516155201987"
+      },
+      {
+        "province": "",
+        "city": "锡林郭勒",
+        "nick_name": "潮汕阿秋（骑行中国）",
+        "fields": [
+          {
+            "value": "21075",
+            "label": "incr_follower"
+          },
+          {
+            "value": "80.8",
+            "label": "score"
+          },
+          {
+            "value": "459023",
+            "label": "follower"
+          },
+          {
+            "value": "450055",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0152",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "10.7",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p3.douyinpic.com/img/tos-cn-i-0813/a7edab3a36d24ab59a726d48596b1b22~c5_1080x1080.jpeg?from=4010531038",
+        "avg_play": 4194776,
+        "id": "6830696201084469262",
+        "core_user_id": "1516981392513512"
+      },
+      {
+        "province": "上海市",
+        "city": "徐汇区",
+        "old_rank": 20,
+        "nick_name": "韩国有个老板娘🇰🇷",
+        "fields": [
+          {
+            "value": "20913",
+            "label": "incr_follower"
+          },
+          {
+            "value": "80.7",
+            "label": "score"
+          },
+          {
+            "value": "674977",
+            "label": "follower"
+          },
+          {
+            "value": "36346",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0051",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "137.6",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p3.douyinpic.com/img/tos-cn-avt-0015/55e7e73a97dc045b3461136c8c859edf~c5_1080x1080.jpeg?from=4010531038",
+        "avg_play": 22589,
+        "new_rank": 20,
+        "id": "6772113007108423694",
+        "core_user_id": "4261357161812008"
+      },
+      {
+        "province": "",
+        "city": "成都",
+        "nick_name": "喜宝",
+        "fields": [
+          {
+            "value": "20945",
+            "label": "incr_follower"
+          },
+          {
+            "value": "80.7",
+            "label": "score"
+          },
+          {
+            "value": "129079",
+            "label": "follower"
+          },
+          {
+            "value": "53635",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0092",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "18.6",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p9.douyinpic.com/img/tos-cn-avt-0015/5b6d39efcb2a367e73bf9ff5b64ed39a~c5_1080x1080.jpeg?from=4010531038",
+        "avg_play": 123417,
+        "id": "6881289629849354244",
+        "core_user_id": "3658787559313955"
+      },
+      {
+        "province": "浙江省",
+        "city": "杭州市",
+        "old_rank": 20,
+        "nick_name": "杭州薛大胖",
+        "fields": [
+          {
+            "value": "20456",
+            "label": "incr_follower"
+          },
+          {
+            "value": "80.7",
+            "label": "score"
+          },
+          {
+            "value": "508320",
+            "label": "follower"
+          },
+          {
+            "value": "39704",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0348",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "37.8",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p3.douyinpic.com/aweme/1080x1080/2f9e20007856f95f39a70.jpeg?from=4010531038",
+        "avg_play": 71791,
+        "new_rank": 19,
+        "id": "6859965662366793742",
+        "core_user_id": "76034912847"
+      },
+      {
+        "province": "",
+        "city": "北京",
+        "nick_name": "大LOGO摄影师-小西瓜",
+        "fields": [
+          {
+            "value": "19825",
+            "label": "incr_follower"
+          },
+          {
+            "value": "80.6",
+            "label": "score"
+          },
+          {
+            "value": "252793",
+            "label": "follower"
+          },
+          {
+            "value": "448883",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0175",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "22.3",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p9.douyinpic.com/aweme/1080x1080/316ee0008c492c23fe3e0.jpeg?from=4010531038",
+        "avg_play": 2203918,
+        "id": "6916868434793857031",
+        "core_user_id": "426264300622605"
+      },
+      {
+        "province": "",
+        "city": "莆田",
+        "nick_name": "夜漫漫何眠",
+        "fields": [
+          {
+            "value": "20042",
+            "label": "incr_follower"
+          },
+          {
+            "value": "80.6",
+            "label": "score"
+          },
+          {
+            "value": "283658",
+            "label": "follower"
+          },
+          {
+            "value": "104571",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.029",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "9.6",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p3.douyinpic.com/img/tos-cn-i-0813/f853363a017d4a09a8785cc6c824e390~c5_1080x1080.jpeg?from=4010531038",
+        "avg_play": 107615,
+        "id": "6894896770027880455",
+        "core_user_id": "81308848919"
+      },
+      {
+        "province": "新疆维吾尔自治区",
+        "city": "喀什地区",
+        "old_rank": 18,
+        "nick_name": "新疆西域哥",
+        "fields": [
+          {
+            "value": "18755",
+            "label": "incr_follower"
+          },
+          {
+            "value": "80.4",
+            "label": "score"
+          },
+          {
+            "value": "861809",
+            "label": "follower"
+          },
+          {
+            "value": "120730",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0165",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "20.7",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p3.douyinpic.com/aweme/1080x1080/2b2230003d91f12c3b230.jpeg?from=4010531038",
+        "avg_play": 188349,
+        "new_rank": 18,
+        "id": "6834154634718740493",
+        "core_user_id": "102216840270"
+      },
+      {
+        "province": "",
+        "city": "拉萨",
+        "nick_name": "四川阿九(环球探险)",
+        "fields": [
+          {
+            "value": "18122",
+            "label": "incr_follower"
+          },
+          {
+            "value": "80.3",
+            "label": "score"
+          },
+          {
+            "value": "198911",
+            "label": "follower"
+          },
+          {
+            "value": "88637",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0272",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "11.3",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p26.douyinpic.com/img/tos-cn-i-0813/37372c9fff1148168a0d5a008bbdeb64~c5_1080x1080.jpeg?from=4010531038",
+        "avg_play": 1978456,
+        "id": "6870161883547041805",
+        "core_user_id": "66475945725"
+      },
+      {
+        "province": "河北省",
+        "city": "秦皇岛市",
+        "nick_name": "秦皇岛吃喝玩乐攻略",
+        "fields": [
+          {
+            "value": "17963",
+            "label": "incr_follower"
+          },
+          {
+            "value": "80.2",
+            "label": "score"
+          },
+          {
+            "value": "210851",
+            "label": "follower"
+          },
+          {
+            "value": "103624",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0475",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "19.3",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p3.douyinpic.com/aweme/1080x1080/2855e0001ce09d4c4f19d.jpeg?from=4010531038",
+        "avg_play": 1177271,
+        "id": "6852084353384579086",
+        "core_user_id": "96494658880"
+      },
+      {
+        "province": "",
+        "city": "兰州",
+        "old_rank": 9,
+        "nick_name": "遇见甘肃",
+        "fields": [
+          {
+            "value": "17508",
+            "label": "incr_follower"
+          },
+          {
+            "value": "80.1",
+            "label": "score"
+          },
+          {
+            "value": "496814",
+            "label": "follower"
+          },
+          {
+            "value": "264859",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0241",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "15.1",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p3.douyinpic.com/aweme/1080x1080/313c6000978a6ce9ce00d.jpeg?from=4010531038",
+        "avg_play": 228646,
+        "new_rank": 11,
+        "id": "6870165645657374727",
+        "core_user_id": "96337913581"
+      },
+      {
+        "province": "广东省",
+        "city": "广州市",
+        "nick_name": "大人爱旅行",
+        "fields": [
+          {
+            "value": "16948",
+            "label": "incr_follower"
+          },
+          {
+            "value": "80",
+            "label": "score"
+          },
+          {
+            "value": "134720",
+            "label": "follower"
+          },
+          {
+            "value": "3523",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.074",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "567.6",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p29.douyinpic.com/img/tos-cn-i-0813/c16925c55b59432e8b2a242d6a753621~c5_1080x1080.jpeg?from=4010531038",
+        "avg_play": 124751,
+        "id": "6870164397612875789",
+        "core_user_id": "89921335361"
+      },
+      {
+        "province": "",
+        "city": "",
+        "nick_name": "庄主帮",
+        "fields": [
+          {
+            "value": "16676",
+            "label": "incr_follower"
+          },
+          {
+            "value": "80",
+            "label": "score"
+          },
+          {
+            "value": "126145",
+            "label": "follower"
+          },
+          {
+            "value": "11977",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0222",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "83.5",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p26.douyinpic.com/aweme/1080x1080/2e9fa0004bf193d50a68d.jpeg?from=4010531038",
+        "avg_play": 23259,
+        "id": "6852972063641042952",
+        "core_user_id": "69605674700"
+      },
+      {
+        "province": "北京市",
+        "city": "丰台区",
+        "old_rank": 4,
+        "nick_name": "你的马队",
+        "fields": [
+          {
+            "value": "16783",
+            "label": "incr_follower"
+          },
+          {
+            "value": "80",
+            "label": "score"
+          },
+          {
+            "value": "660861",
+            "label": "follower"
+          },
+          {
+            "value": "157426",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0096",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "12.1",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p3.douyinpic.com/img/tos-cn-avt-0015/dd385df47210fc10340b812dada4484b~c5_1080x1080.jpeg?from=4010531038",
+        "avg_play": 64866,
+        "new_rank": 20,
+        "id": "6870163926990979079",
+        "core_user_id": "84019457192"
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "桂林市",
+        "nick_name": "桂林众发旅游私人定制师",
+        "fields": [
+          {
+            "value": "15994",
+            "label": "incr_follower"
+          },
+          {
+            "value": "79.9",
+            "label": "score"
+          },
+          {
+            "value": "69084",
+            "label": "follower"
+          },
+          {
+            "value": "27305",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0192",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "36.6",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p6.douyinpic.com/aweme/1080x1080/31916000956d2a7407a79.jpeg?from=4010531038",
+        "avg_play": 17102,
+        "id": "6865348096008650765",
+        "core_user_id": "80839505139"
+      },
+      {
+        "province": "",
+        "city": "长沙",
+        "nick_name": "开车狂浪",
+        "fields": [
+          {
+            "value": "15362",
+            "label": "incr_follower"
+          },
+          {
+            "value": "79.7",
+            "label": "score"
+          },
+          {
+            "value": "342322",
+            "label": "follower"
+          },
+          {
+            "value": "52931",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0249",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "56.7",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p29.douyinpic.com/aweme/1080x1080/284d5000090521deeebcd.jpeg?from=4010531038",
+        "avg_play": 85314,
+        "id": "6829599306773692423",
+        "core_user_id": "75865464977"
+      },
+      {
+        "province": "",
+        "city": "上海",
+        "nick_name": "胜凯旅游(迪士尼免排队)",
+        "fields": [
+          {
+            "value": "15103",
+            "label": "incr_follower"
+          },
+          {
+            "value": "79.7",
+            "label": "score"
+          },
+          {
+            "value": "148055",
+            "label": "follower"
+          },
+          {
+            "value": "48614",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0171",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "30.9",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p3.douyinpic.com/img/tos-cn-avt-0015/ae470d569de3724c028786709fda60fb~c5_1080x1080.jpeg?from=4010531038",
+        "avg_play": 13307,
+        "id": "6889491348903165966",
+        "core_user_id": "64012152786"
+      },
+      {
+        "province": "陕西省",
+        "city": "西安市",
+        "nick_name": "李琳带您游西安",
+        "fields": [
+          {
+            "value": "14659",
+            "label": "incr_follower"
+          },
+          {
+            "value": "79.6",
+            "label": "score"
+          },
+          {
+            "value": "183076",
+            "label": "follower"
+          },
+          {
+            "value": "9814",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0222",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "101.9",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p29.douyinpic.com/img/tos-cn-i-0813/0489e37c70d9471d812082fe10e9e90f~c5_1080x1080.jpeg?from=4010531038",
+        "avg_play": 18341,
+        "id": "6856683648293273608",
+        "core_user_id": "4441646335529069"
+      },
+      {
+        "province": "北京市",
+        "city": "大兴区",
+        "nick_name": "笑看风云🇨🇳",
+        "fields": [
+          {
+            "value": "14565",
+            "label": "incr_follower"
+          },
+          {
+            "value": "79.6",
+            "label": "score"
+          },
+          {
+            "value": "150821",
+            "label": "follower"
+          },
+          {
+            "value": "6015",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0235",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "166.2",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p29.douyinpic.com/img/tos-cn-i-0813/43c49c0e5d774bdd83dd027661ce039d~c5_1080x1080.jpeg?from=4010531038",
+        "avg_play": 20055,
+        "id": "6863348719413100558",
+        "core_user_id": "92457983403"
+      },
+      {
+        "province": "",
+        "city": "赫尔辛基",
+        "nick_name": "芬兰卡姐🇫🇮 （未来X洋妹）",
+        "fields": [
+          {
+            "value": "14719",
+            "label": "incr_follower"
+          },
+          {
+            "value": "79.6",
+            "label": "score"
+          },
+          {
+            "value": "688358",
+            "label": "follower"
+          },
+          {
+            "value": "85353",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0603",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "175.7",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p6.douyinpic.com/img/tos-cn-avt-0015/5b654cd2937b3b2771955c57c972b802~c5_1080x1080.jpeg?from=4010531038",
+        "avg_play": 155242,
+        "id": "6856033976679661581",
+        "core_user_id": "2291003347706668"
+      },
+      {
+        "province": "",
+        "city": "恩施",
+        "nick_name": "导游严卫",
+        "fields": [
+          {
+            "value": "14427",
+            "label": "incr_follower"
+          },
+          {
+            "value": "79.5",
+            "label": "score"
+          },
+          {
+            "value": "396735",
+            "label": "follower"
+          },
+          {
+            "value": "29318",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.023",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "34.1",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p9.douyinpic.com/img/tos-cn-i-0813/c7970df704aa432bb0c022157b1ed2f8~c5_1080x1080.jpeg?from=4010531038",
+        "avg_play": 218124,
+        "id": "6854033191641022477",
+        "core_user_id": "58782535374"
+      },
+      {
+        "province": "福建省",
+        "city": "厦门市",
+        "old_rank": 13,
+        "nick_name": "厦门导游小程",
+        "fields": [
+          {
+            "value": "14266",
+            "label": "incr_follower"
+          },
+          {
+            "value": "79.5",
+            "label": "score"
+          },
+          {
+            "value": "505592",
+            "label": "follower"
+          },
+          {
+            "value": "60915",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0156",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "24.6",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p26.douyinpic.com/img/tos-cn-avt-0015/c376f851ebb11b761292107414276ad3~c5_1080x1080.jpeg?from=4010531038",
+        "avg_play": 89234,
+        "new_rank": 15,
+        "id": "6830699712274759694",
+        "core_user_id": "59016555185"
+      },
+      {
+        "province": "",
+        "city": "郑州",
+        "nick_name": "郑州驴友张三疯",
+        "fields": [
+          {
+            "value": "14325",
+            "label": "incr_follower"
+          },
+          {
+            "value": "79.5",
+            "label": "score"
+          },
+          {
+            "value": "290399",
+            "label": "follower"
+          },
+          {
+            "value": "113902",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0337",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "17.6",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p6.douyinpic.com/img/tos-cn-i-0813/d1f152f3cbc6491199502a62f2866f89~c5_1080x1080.jpeg?from=4010531038",
+        "avg_play": 307743,
+        "id": "6876765897709584399",
+        "core_user_id": "96421169880"
+      },
+      {
+        "province": "云南省",
+        "city": "大理白族自治州",
+        "old_rank": 12,
+        "nick_name": "大理宝宝",
+        "fields": [
+          {
+            "value": "14537",
+            "label": "incr_follower"
+          },
+          {
+            "value": "79.5",
+            "label": "score"
+          },
+          {
+            "value": "458114",
+            "label": "follower"
+          },
+          {
+            "value": "57663",
+            "label": "positive_vv"
+          },
+          {
+            "value": "0.0197",
+            "label": "personal_interate_rate"
+          },
+          {
+            "value": "17.3",
+            "label": "expected_cpm"
+          }
+        ],
+        "is_collected": false,
+        "avatar_uri": "https://p29.douyinpic.com/img/tos-cn-avt-0015/3c630f32c2ce384b8dc274aad655052a~c5_1080x1080.jpeg?from=4010531038",
+        "avg_play": 62392,
+        "new_rank": 18,
+        "id": "6858165048179687438",
+        "core_user_id": "59708158761"
+      }
+    ],
+    "conf": {
+      "status": 1,
+      "platform_channel": 0,
+      "description": "【筛选规则】：评估创作者近15日有效涨粉数据进行排序。\n【达人优势】：达人处于高速涨粉阶段，具有较长的传播周期。\n【适用场景】：适用于可即时下单快速投放，追赶涨粉红利的客户。",
+      "weight": 2999,
+      "tags": [
+        {
+          "value": "颜值达人",
+          "label": "颜值达人"
+        },
+        {
+          "value": "剧情搞笑",
+          "label": "剧情搞笑"
+        },
+        {
+          "value": "美妆",
+          "label": "美妆"
+        },
+        {
+          "value": "时尚",
+          "label": "时尚"
+        },
+        {
+          "value": "萌宠",
+          "label": "萌宠"
+        },
+        {
+          "value": "音乐",
+          "label": "音乐"
+        },
+        {
+          "value": "舞蹈",
+          "label": "舞蹈"
+        },
+        {
+          "value": "美食",
+          "label": "美食"
+        },
+        {
+          "value": "游戏",
+          "label": "游戏"
+        },
+        {
+          "value": "旅行",
+          "label": "旅行"
+        },
+        {
+          "value": "汽车",
+          "label": "汽车"
+        },
+        {
+          "value": "生活",
+          "label": "生活"
+        },
+        {
+          "value": "测评",
+          "label": "测评"
+        },
+        {
+          "value": "二次元",
+          "label": "二次元"
+        },
+        {
+          "value": "母婴亲子",
+          "label": "母婴亲子"
+        },
+        {
+          "value": "科技数码",
+          "label": "科技数码"
+        },
+        {
+          "value": "教育培训",
+          "label": "教育培训"
+        },
+        {
+          "value": "运动健身",
+          "label": "运动健身"
+        },
+        {
+          "value": "家居家装",
+          "label": "家居家装"
+        },
+        {
+          "value": "才艺技能",
+          "label": "才艺技能"
+        },
+        {
+          "value": "影视娱乐",
+          "label": "影视娱乐"
+        },
+        {
+          "value": "艺术文化",
+          "label": "艺术文化"
+        },
+        {
+          "value": "财经投资",
+          "label": "财经投资"
+        },
+        {
+          "value": "情感",
+          "label": "情感"
+        },
+        {
+          "value": "三农",
+          "label": "三农"
+        },
+        {
+          "value": "园艺",
+          "label": "园艺"
+        }
+      ],
+      "enable_tag": 1,
+      "platform_source": 1,
+      "name": "涨粉指数榜",
+      "item_type": 1,
+      "create_time": 1564664839,
+      "modify_time": 1617602145,
+      "fields_conf": [
+        {
+          "display_order": 1,
+          "label": "follower",
+          "desc": "达人粉丝数"
+        },
+        {
+          "display_order": 2,
+          "label": "positive_vv",
+          "desc": "预期播放量"
+        },
+        {
+          "display_order": 3,
+          "label": "personal_interate_rate",
+          "desc": "互动率"
+        },
+        {
+          "display_order": 4,
+          "label": "incr_follower",
+          "desc": "涨粉量"
+        },
+        {
+          "display_order": 5,
+          "label": "score",
+          "desc": "涨粉指数"
+        }
+      ],
+      "type": 3,
+      "id": "6720184315054915588",
+      "system_type": 1
+    }
+  }
+}
