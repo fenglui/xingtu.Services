@@ -51,13 +51,18 @@ namespace xingtu.Services.Tests
         {
             XingTuConfig cfg = (XingTuConfig)server.Services.GetService(typeof(XingTuConfig));
 
-            var res = ToutiaoMarketService.AuthorList(cfg, "熊猫的慢生活");
+            var res = ToutiaoMarketService.AuthorList(cfg, "沉默寡言老咖啡", page: 1, limit: 1);
 
             Assert.IsNotNull(res);
 
-            foreach (var author in res.Data.Authors)
+            Assert.IsNotNull(res.Data);
+
+            if (null != res.Data)
             {
-                Console.WriteLine($"{ author.TagsIds } { author.NickName } { author.City } { author.AvgPlay } { author.IsStar } - { author.IsCollected } ");
+                foreach (var author in res.Data.Authors)
+                {
+                    Console.WriteLine($"{ author.TagsIds } { author.Id } { author.NickName } { author.City } 平均播放：{ author.AvgPlay } 预期播放量 { author.ExpectedPlayNum } 预期CPM {author.ExpectedCpm} 作品互动率 { author.PersonalInterateRate } 星图：{ author.IsStar } - { author.IsCollected } ");
+                }
             }
         }
 

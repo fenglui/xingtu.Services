@@ -61,7 +61,7 @@
         public string TagsAuthorStyle {get; set;}
 
         [JsonPropertyName("has_coupon")]
-        public bool HasCoupon {get; set;}
+        public bool? HasCoupon {get; set;}
 
         [JsonPropertyName("grade")]
         public int Grade {get; set;}
@@ -106,6 +106,9 @@
         [JsonPropertyName("settlement_types")]
         public IList<Int32> SettlementTypes {get; set;}
 
+        /// <summary>
+        /// 星图ID
+        /// </summary>
         [JsonPropertyName("id")]
         public string Id {get; set;}
 
@@ -133,6 +136,9 @@
         [JsonPropertyName("activity_icon_url")]
         public string ActivityIconUrl {get; set;}
 
+        /// <summary>
+        /// 预期CPM
+        /// </summary>
         [JsonPropertyName("expected_cpm")]
         public float ExpectedCpm {get; set;}
 

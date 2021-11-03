@@ -80,14 +80,17 @@ namespace xingtu.Services
                 try
                 {
                     //如果包含GZIP,需要解压
-                    if (!string.IsNullOrEmpty(response.ContentEncoding) && response.ContentEncoding.ToUpper().IndexOf("GZIP") > -1)
+                    if (!string.IsNullOrEmpty(response.ContentEncoding))
                     {
-                        responseReader =
-                        new StreamReader(new GZipStream(myStream, CompressionMode.Decompress), Encoding.Default);
-                    }
-                    else if (response.ContentEncoding.ToLower() == "br")
-                    {
-                        // TODO BrotliStream
+                        if (response.ContentEncoding.ToUpper().IndexOf("GZIP") > -1)
+                        {
+                            responseReader =
+                            new StreamReader(new GZipStream(myStream, CompressionMode.Decompress), Encoding.Default);
+                        }
+                        else if (response.ContentEncoding.ToLower() == "br")
+                        {
+                            // TODO BrotliStream
+                        }
                     }
                     else
                     {
