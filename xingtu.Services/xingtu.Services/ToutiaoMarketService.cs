@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Net;
 using System.Text.Json;
 using System.Web;
@@ -198,32 +199,32 @@ namespace xingtu.Services
         {
             Console.WriteLine($"AuthorList k is {k}");
 
-            String url = $"{ apiV }/demand/author_list/?limit={ limit }&need_detail=true&page={ page }&platform_source={ platform }&task_category=1&order_by=score&disable_replace_keyword=false&is_filter=true";
+            string url = $"{ apiV }/demand/author_list/?limit={ limit }&need_detail=true&page={ page }&platform_source={ platform }&task_category=1&order_by=score&disable_replace_keyword=false&is_filter=true";
 
             if (tag > 0)
             {
                 url += $"&tag={ tag }";
             }
 
-            if (String.IsNullOrEmpty(industry_tag_level_one) == false)
+            if (string.IsNullOrEmpty(industry_tag_level_one) == false)
             {
                 url += $"&industry_tag_level_one={ HttpUtility.UrlEncode(industry_tag_level_one) }";
             }
 
-            if (String.IsNullOrEmpty(k) == false)
+            if (string.IsNullOrEmpty(k) == false)
             {
                 url += $"&key={ HttpUtility.UrlEncode(k) }";
             }
 
-            String responseData = ToutiaoTool.StarRequest(cfg, url, @"https://star.toutiao.com/ad/market", proxy: proxy);
+            string responseData = ToutiaoTool.StarRequest(cfg, url, @"https://star.toutiao.com/ad/market", proxy: proxy);
             //Console.WriteLine(responseData);
-            if (String.IsNullOrEmpty(responseData))
+            if (string.IsNullOrEmpty(responseData))
             {
                 return null;
             }
-            if (String.IsNullOrEmpty(saveToFile) == false)
+            if (string.IsNullOrEmpty(saveToFile) == false)
             {
-                System.IO.File.WriteAllText(saveToFile, responseData);
+                File.WriteAllText(saveToFile, responseData);
             }
             try
             {
@@ -232,7 +233,7 @@ namespace xingtu.Services
             catch (Exception ex)
             {
                 string file = $"{k}_{industry_tag_level_one}_{ tag }_{page}_{limit}.err.json";
-                System.IO.File.WriteAllText(file, responseData);
+                File.WriteAllText(file, responseData);
 
                 Console.WriteLine($"{ex.Message}");
                 if (null != ex.InnerException)

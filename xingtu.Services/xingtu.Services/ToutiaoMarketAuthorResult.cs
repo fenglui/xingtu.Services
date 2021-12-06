@@ -88,7 +88,7 @@
         /// 预期播放量
         /// </summary>
         [JsonPropertyName("expected_play_num")]
-        public int ExpectedPlayNum { get; set; }
+        public int? ExpectedPlayNum { get; set; }
 
         /// <summary>
         /// 作品互动率

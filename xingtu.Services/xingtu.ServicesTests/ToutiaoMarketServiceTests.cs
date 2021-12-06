@@ -51,7 +51,7 @@ namespace xingtu.Services.Tests
         {
             XingTuConfig cfg = (XingTuConfig)server.Services.GetService(typeof(XingTuConfig));
 
-            var res = ToutiaoMarketService.AuthorList(cfg, "沉默寡言老咖啡", page: 1, limit: 1);
+            var res = ToutiaoMarketService.AuthorList(cfg, "诸葛钢铁的铁", page: 1, limit: 1);
 
             Assert.IsNotNull(res);
 
